@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Floor.unity
     guid: b061f9af082ee394c82ffe53edd127d7
+  - enabled: 1
+    path: Assets/Scenes/Test_anchor.unity
+    guid: 2325ada6d4dc543969851f737303e687
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c0a92abffac600c4e9232337ac1243de, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
